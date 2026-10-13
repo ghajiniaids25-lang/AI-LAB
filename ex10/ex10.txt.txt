@@ -1,0 +1,9 @@
+Enter Age: 45
+Enter BMI: 28
+Enter Blood Pressure: 145
+Enter Blood Sugar: 135
+Enter Cholesterol: 220
+
+--- HEALTH RISK ANALYZER ---
+Risk Score: 6
+Health Risk Level: HIGH RISK
